@@ -1,0 +1,244 @@
+body{
+    background-color: #A79277;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+    margin: 10px 10px 0 10px;
+   
+    font-family: EB Garamond, serif;
+}
+
+.main{
+    flex: 1;
+}
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+    color: #373A40;
+    }
+
+   
+.dot{
+    font-size: 5rem;
+    position: relative;
+    top: 10px;
+   }
+
+
+.img{
+    height: 500px;
+    width: 100%;
+    border-radius: 5%;
+    object-fit: cover;
+    border: 3px solid #fff2e1;
+ }
+
+  h2{
+    font-size: 2rem;
+    text-align: center;
+    text-decoration-line: underline;
+   }  
+p{
+    text-align: center;
+    font-size: 2rem;
+}
+.below{
+    font-size: 35px;
+    color: #1e1c1c;
+}
+.right{
+    height: 250px;
+    width: 50%;
+    object-fit: cover;
+    border: 5px solid #fff2e1;
+    float: left;}
+
+.oho{
+    color: #653d08;
+}
+
+.left{
+    height: 250px;
+    width: 50%;
+    object-fit: cover;
+    border: 5px solid #faf9f6;
+    float: left;
+}
+
+.bead-right{
+    float: left;
+    margin-bottom: 30px;
+}
+.bead-left{
+    float: left;
+    margin-bottom: 50px;
+}
+
+.toh{
+    color: #653d08;
+}
+.sacred{
+    height: 250px;
+    width: 50%;
+    object-fit: cover;
+    border: 5px solid #fff2e1;
+    float: left;
+    
+}
+.hmm{
+    color: #653d08;
+}
+.bead-third{
+    float: left;
+    margin-bottom: 70px;
+}
+.hang{
+    height: 250px;
+    width: 50%;
+    object-fit: cover;
+    border: 5px solid #fff2e1;
+    float: left;
+}
+.huh{
+    color: #653d08;
+}
+.bead-fourth{
+    float: left;
+    margin-bottom: 90px;
+}
+.pack{
+    height: 250px;
+    width: 50%;
+    object-fit: cover;
+    border: 5px solid #fff2e1 ;
+    float: left;
+
+}
+.whew{
+    color: #653d08;
+}
+.bead-last{
+    float: left;
+    margin: 10px;
+    
+}
+.sleep{
+ text-decoration-line: none;
+ font-size: 3rem;
+ color: #373A40;
+}
+.ref{
+    font-size: 25px;
+}
+.vintage{
+    color: #fff2e1;
+    font-weight: bold;
+}
+.mirad{
+    color: #fff2e1;
+    font-weight: bold;
+}
+.bouge{
+    color: #fff2e1;
+    font-weight: bold;
+}
+.exir{
+    color: #fff2e1;
+    font-weight: bold;
+}
+
+.ruby{
+    color: #fff2e1;
+    font-weight: bold;
+}
+@media(max-width: 680px){
+    h1{
+        font-size: 2rem;
+        text-align: center;
+    }
+    .dot{
+        font-size: 3rem;
+    }
+    img{
+        width: 100%;
+        display: inline;
+        border-radius: 50%;
+        margin-top: 0px;
+       
+
+    }
+     .a{
+        width: 100%;
+        text-align: center;
+        display: block;
+        font-size: 20px;
+    }
+    .b{
+        width: 100%;
+        text-align: justify;
+        display: block;
+        font-size: 21px;
+    }
+    .below{
+        font-size: 22px;
+    }
+    .oho{
+        width: 100%;
+        display: block;
+        font-size: 19px;
+        text-align: justify;
+        margin: 0;
+      
+    }
+    .toh{
+        width: 100%;
+        display: block;
+        font-size: 19px;
+        text-align: justify;
+        margin: 0;
+    }
+    .hmm{
+        width: 100%;
+        display: block;
+        font-size: 19px;
+        text-align: justify;
+        margin: 0;
+    }
+
+    .huh{
+        width: 100%;
+        display: block;
+        font-size: 19px;
+        text-align: justify;
+        margin: 0;
+    }
+    .whew{
+        width: 100%;
+        display: block;
+        font-size: 19px;
+        text-align: justify;
+       margin: 10px;
+    
+    }
+    .sleep{
+        font-size: 30px;
+    }
+    .ref{
+        font-size: 19px;
+    }
+    .here{
+        font-size: 25px;
+    }
+    .her{
+        font-size: 18px;
+        text-align: left;
+    }
+    
+    }
+    
+
+    
+    
+    
+    
